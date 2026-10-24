@@ -4,8 +4,13 @@
 
 ---
 
-## 🌐 Live Demo 👉 [Add your live demo link here](#)
+## 📝 Project Name
 
+The name **RecipeYab** combines “Recipe” with the Persian word **Yab ( یاب )**, meaning “finder” or “one who finds”. It reflects the main purpose of the application: helping users find recipes.
+
+---
+
+## 🌐 Live Demo 👉 [https://recipe-yab.vercel.app/](https://recipe-yab.vercel.app/)
 ---
 
 ## 📌 Features
